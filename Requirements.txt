@@ -1,0 +1,11 @@
+#Flask-powered Web Apps
+gunicorn
+Jinja2
+Werkzeug
+
+#For this specific app
+flask
+pandas
+
+
+
